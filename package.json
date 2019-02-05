@@ -1,0 +1,26 @@
+{
+  "name": "cloudflare-ddns-interval",
+  "version": "1.0.0",
+  "description": "Update cloudflare DNS records to match server (dynamic) IP for given domains",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkentta/cloudflare-ddns-interval"
+  },
+  "keywords": [
+    "cloudflare",
+    "dns",
+    "dynamic",
+    "ip"
+  ],
+  "author": "Ville Kentta",
+  "license": "MIT",
+  "dependencies": {
+    "cloudflare": "^2.4.1",
+    "public-ip": "^3.0.0"
+  }
+}
