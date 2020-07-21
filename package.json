@@ -20,7 +20,7 @@
   "author": "Ville Kentta",
   "license": "MIT",
   "dependencies": {
-    "cloudflare": "^2.4.1",
-    "public-ip": "^3.0.0"
+    "cloudflare": "^2.7.0",
+    "public-ip": "^4.0.2"
   }
 }

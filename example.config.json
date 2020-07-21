@@ -1,0 +1,12 @@
+{
+    "cloudflare": {
+        "email": "your.username@example.com",
+        "key": "1234567890qwertyuiopasdfghgjklzxcvbnm"
+    },
+    "domains": [
+        "yourawesomesuperdomain.info",
+        "yourawesomesuperdomain2.net",
+        "yourawesomesuperdomain3.network"
+    ],
+    "checkPeriodMinutes": 5
+}
